@@ -1,8 +1,5 @@
 # Restart Module for Pyrogram Bot
 
-[!Stars](https://github.com/abirxdhack/RestartModule/stargazers)
-[!Forks](https://github.com/abirxdhack/RestartModule/network/members)
-[!Python Version](https://www.python.org/downloads/)
 
 This module allows an authorized user to restart the Pyrogram-based Telegram bot through a command. The restart command is restricted to users whose IDs are specified in the `ADMIN_IDS` list.
 
